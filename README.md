@@ -1,4 +1,4 @@
 # Bootcamp
 ##Realizados na plataforma DIO
 
-- Os Certificados são relacionados a este Bootcamp Take Blip Web Developer.
+- Estes Certificados são relacionados ao Bootcamp Take Blip Web Developer.
