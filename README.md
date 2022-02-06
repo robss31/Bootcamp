@@ -1,4 +1,4 @@
 # Bootcamp
 ##Realizados na plataforma DIO
 
-- Estes Certificados são relacionados ao Bootcamp Take Blip Web Developer.
+- Este repositório será designado aos certificados, dos Bootcamp realizado na plataforma DIO.
